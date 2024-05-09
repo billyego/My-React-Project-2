@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/billyego/My-React-Project-2/static/css/main.ca0d7015.css",
+    "main.js": "/billyego/My-React-Project-2/static/js/main.b52efc24.js",
+    "static/js/453.e288f7db.chunk.js": "/billyego/My-React-Project-2/static/js/453.e288f7db.chunk.js",
+    "index.html": "/billyego/My-React-Project-2/index.html",
+    "main.ca0d7015.css.map": "/billyego/My-React-Project-2/static/css/main.ca0d7015.css.map",
+    "main.b52efc24.js.map": "/billyego/My-React-Project-2/static/js/main.b52efc24.js.map",
+    "453.e288f7db.chunk.js.map": "/billyego/My-React-Project-2/static/js/453.e288f7db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0d7015.css",
+    "static/js/main.b52efc24.js"
+  ]
+}
